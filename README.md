@@ -3,3 +3,4 @@ tutorial
 
 
 --test
+test local
